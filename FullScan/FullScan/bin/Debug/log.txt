@@ -1,0 +1,808 @@
+
+3/7/2022 12:55:53 PM: Application started
+3/7/2022 12:56:00 PM: Application closed
+
+3/7/2022 12:56:27 PM: Application started
+3/7/2022 12:56:50 PM: Application closed
+
+3/7/2022 12:57:41 PM: Application started
+3/7/2022 12:57:42 PM: Application closed
+
+3/7/2022 12:57:51 PM: Application started
+3/7/2022 12:58:02 PM: Application closed
+
+3/7/2022 1:01:47 PM: Application started
+3/7/2022 1:02:00 PM: Application closed
+
+3/7/2022 1:05:35 PM: Application started
+3/7/2022 1:05:39 PM: Configuration saved
+
+3/7/2022 1:05:54 PM: Application started
+3/7/2022 1:05:54 PM: Configuration loaded
+3/7/2022 1:06:01 PM: Configuration saved
+3/7/2022 1:06:22 PM: Starting acquisition (Brother)
+3/7/2022 1:06:22 PM: Setup device handling
+3/7/2022 1:06:22 PM: Setup device properties
+3/7/2022 1:06:22 PM: DEBUG: document handling 2
+3/7/2022 1:06:22 PM: DEBUG: feeder status 3
+3/7/2022 1:06:37 PM: Finished scanning 1 files
+3/7/2022 1:06:37 PM: [Error] A generic error occurred in GDI+.
+3/7/2022 1:06:56 PM: Configuration saved
+
+3/7/2022 1:07:28 PM: Application started
+3/7/2022 1:07:28 PM: Configuration loaded
+3/7/2022 1:07:36 PM: Configuration saved
+
+3/7/2022 1:09:03 PM: Application started
+3/7/2022 1:09:03 PM: Configuration loaded
+3/7/2022 1:09:07 PM: Configuration saved
+
+3/7/2022 1:11:22 PM: Application started
+3/7/2022 1:11:22 PM: Configuration loaded
+3/7/2022 1:11:27 PM: Configuration saved
+3/7/2022 1:11:30 PM: Application closed
+
+3/7/2022 1:11:49 PM: Application started
+3/7/2022 1:11:50 PM: Configuration loaded
+3/7/2022 1:11:54 PM: Configuration saved
+3/7/2022 1:12:22 PM: Configuration saved
+3/7/2022 1:12:32 PM: Starting acquisition (Brother)
+3/7/2022 1:12:32 PM: Setup device handling
+3/7/2022 1:12:32 PM: Setup device properties
+3/7/2022 1:12:32 PM: DEBUG: document handling 2
+3/7/2022 1:12:32 PM: DEBUG: feeder status 3
+3/7/2022 1:12:48 PM: Finished scanning 1 files
+3/7/2022 1:12:48 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 1:12:52 PM: Application closed
+
+3/7/2022 1:13:09 PM: Application started
+3/7/2022 1:13:09 PM: Configuration loaded
+3/7/2022 1:13:17 PM: Starting acquisition (Brother)
+3/7/2022 1:13:17 PM: Setup device handling
+3/7/2022 1:13:17 PM: Setup device properties
+3/7/2022 1:13:17 PM: DEBUG: document handling 2
+3/7/2022 1:13:17 PM: DEBUG: feeder status 3
+3/7/2022 1:13:33 PM: Finished scanning 1 files
+3/7/2022 1:13:33 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 1:15:28 PM: Application started
+3/7/2022 1:15:28 PM: Configuration loaded
+3/7/2022 1:15:44 PM: Connecting to device vid.0 pid.0
+3/7/2022 1:15:44 PM: [Error] Device Not Found.
+3/7/2022 1:15:48 PM: Application closed
+
+3/7/2022 1:19:41 PM: Application started
+3/7/2022 1:19:41 PM: Configuration loaded
+3/7/2022 1:19:53 PM: Starting acquisition (Brother)
+3/7/2022 1:19:53 PM: Setup device handling
+3/7/2022 1:19:53 PM: Setup device properties
+3/7/2022 1:19:53 PM: DEBUG: document handling 2
+3/7/2022 1:19:53 PM: DEBUG: feeder status 3
+3/7/2022 1:20:08 PM: Finished scanning 1 files
+3/7/2022 1:20:08 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 1:20:16 PM: Application closed
+
+3/7/2022 1:29:07 PM: Application started
+3/7/2022 1:29:07 PM: Configuration loaded
+3/7/2022 1:29:27 PM: Starting acquisition (Brother)
+3/7/2022 1:29:35 PM: Setup device handling
+3/7/2022 1:29:35 PM: Setup device properties
+3/7/2022 1:29:35 PM: DEBUG: document handling 2
+3/7/2022 1:29:35 PM: DEBUG: feeder status 3
+3/7/2022 1:29:50 PM: Finished scanning 1 files
+3/7/2022 1:29:50 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 1:33:40 PM: Application started
+3/7/2022 1:33:41 PM: Configuration loaded
+3/7/2022 1:34:17 PM: Application closed
+
+3/7/2022 1:39:13 PM: Application started
+3/7/2022 1:39:13 PM: Configuration loaded
+3/7/2022 1:39:22 PM: Configuration saved
+3/7/2022 1:39:34 PM: Starting acquisition (Brother)
+3/7/2022 1:39:34 PM: Setup device handling
+3/7/2022 1:39:34 PM: Setup device properties
+3/7/2022 1:39:34 PM: DEBUG: document handling 2
+3/7/2022 1:39:34 PM: DEBUG: feeder status 3
+3/7/2022 1:39:49 PM: Finished scanning 1 files
+3/7/2022 1:39:49 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 1:40:06 PM: Application started
+3/7/2022 1:40:06 PM: Configuration loaded
+3/7/2022 1:41:02 PM: Starting acquisition (Brother)
+3/7/2022 1:41:02 PM: Setup device handling
+3/7/2022 1:41:02 PM: Setup device properties
+3/7/2022 1:41:02 PM: DEBUG: document handling 2
+3/7/2022 1:41:02 PM: DEBUG: feeder status 3
+3/7/2022 1:41:18 PM: Finished scanning 1 files
+3/7/2022 1:41:18 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 1:59:26 PM: Application started
+3/7/2022 1:59:26 PM: Configuration loaded
+
+3/7/2022 2:01:12 PM: Application started
+3/7/2022 2:01:12 PM: Configuration loaded
+3/7/2022 2:01:13 PM: Application closed
+
+3/7/2022 2:01:39 PM: Application started
+3/7/2022 2:01:39 PM: Configuration loaded
+3/7/2022 2:02:10 PM: Starting acquisition (Brother)
+3/7/2022 2:02:10 PM: Setup device handling
+3/7/2022 2:02:10 PM: Setup device properties
+3/7/2022 2:02:10 PM: DEBUG: document handling 2
+3/7/2022 2:02:10 PM: DEBUG: feeder status 3
+
+3/7/2022 2:02:16 PM: Application started
+3/7/2022 2:02:16 PM: Configuration loaded
+3/7/2022 2:03:19 PM: Starting acquisition (Brother)
+3/7/2022 2:03:19 PM: Setup device handling
+3/7/2022 2:03:19 PM: Setup device properties
+3/7/2022 2:03:20 PM: DEBUG: document handling 2
+3/7/2022 2:03:20 PM: DEBUG: feeder status 3
+3/7/2022 2:03:29 PM: Scan cancelled
+3/7/2022 2:03:29 PM: Finished scanning 0 files
+
+3/7/2022 2:03:52 PM: Application started
+3/7/2022 2:03:52 PM: Configuration loaded
+3/7/2022 2:03:59 PM: Starting acquisition (Brother)
+3/7/2022 2:03:59 PM: Setup device handling
+3/7/2022 2:03:59 PM: Setup device properties
+3/7/2022 2:03:59 PM: DEBUG: document handling 2
+3/7/2022 2:03:59 PM: DEBUG: feeder status 3
+3/7/2022 2:04:15 PM: Finished scanning 1 files
+3/7/2022 2:04:15 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:05:39 PM: Starting acquisition (Brother)
+3/7/2022 2:05:42 PM: Setup device handling
+3/7/2022 2:05:42 PM: Setup device properties
+3/7/2022 2:05:42 PM: DEBUG: document handling 2
+3/7/2022 2:05:42 PM: DEBUG: feeder status 3
+3/7/2022 2:05:57 PM: Finished scanning 1 files
+3/7/2022 2:05:57 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:09:00 PM: Application started
+3/7/2022 2:09:00 PM: Configuration loaded
+3/7/2022 2:09:03 PM: Configuration saved
+3/7/2022 2:09:07 PM: Starting acquisition (Brother)
+3/7/2022 2:09:07 PM: Setup device handling
+3/7/2022 2:09:07 PM: Setup device properties
+3/7/2022 2:09:07 PM: DEBUG: document handling 1
+3/7/2022 2:09:07 PM: DEBUG: feeder status 3
+3/7/2022 2:09:21 PM: DEBUG: document handling 1
+3/7/2022 2:09:21 PM: DEBUG: feeder status 3
+3/7/2022 2:09:21 PM: Paper feed empty
+3/7/2022 2:09:21 PM: Finished scanning 1 files
+3/7/2022 2:09:22 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:09:49 PM: Application started
+3/7/2022 2:09:49 PM: Configuration loaded
+3/7/2022 2:09:49 PM: Configuration saved
+3/7/2022 2:09:50 PM: Configuration saved
+3/7/2022 2:09:51 PM: Configuration saved
+3/7/2022 2:09:52 PM: Configuration saved
+3/7/2022 2:09:53 PM: Configuration saved
+3/7/2022 2:09:53 PM: Configuration saved
+3/7/2022 2:09:59 PM: Connecting to device vid.0 pid.0
+3/7/2022 2:09:59 PM: [Error] Device Not Found.
+3/7/2022 2:10:03 PM: Starting acquisition (Brother)
+3/7/2022 2:10:03 PM: Setup device handling
+3/7/2022 2:10:03 PM: Setup device properties
+3/7/2022 2:10:03 PM: DEBUG: document handling 1
+3/7/2022 2:10:03 PM: DEBUG: feeder status 3
+3/7/2022 2:10:03 PM: Paper feed empty
+3/7/2022 2:10:03 PM: Finished scanning 0 files
+3/7/2022 2:10:05 PM: Configuration saved
+3/7/2022 2:10:06 PM: Configuration saved
+3/7/2022 2:10:11 PM: Starting acquisition (Brother)
+3/7/2022 2:10:11 PM: Setup device handling
+3/7/2022 2:10:11 PM: Setup device properties
+3/7/2022 2:10:11 PM: DEBUG: document handling 2
+3/7/2022 2:10:11 PM: DEBUG: feeder status 3
+3/7/2022 2:10:26 PM: Finished scanning 1 files
+3/7/2022 2:10:26 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:11:18 PM: Application started
+3/7/2022 2:11:18 PM: Configuration loaded
+3/7/2022 2:11:18 PM: Configuration saved
+3/7/2022 2:11:20 PM: Configuration saved
+3/7/2022 2:11:25 PM: Configuration saved
+3/7/2022 2:11:26 PM: Configuration saved
+3/7/2022 2:11:29 PM: Configuration saved
+3/7/2022 2:11:29 PM: Configuration saved
+
+3/7/2022 2:11:33 PM: Application started
+3/7/2022 2:11:33 PM: Configuration loaded
+3/7/2022 2:11:33 PM: Configuration saved
+3/7/2022 2:11:35 PM: Configuration saved
+3/7/2022 2:11:38 PM: Configuration saved
+
+3/7/2022 2:12:04 PM: Application started
+3/7/2022 2:12:04 PM: Configuration loaded
+3/7/2022 2:12:04 PM: Configuration saved
+3/7/2022 2:12:04 PM: Configuration saved
+3/7/2022 2:12:05 PM: Configuration saved
+3/7/2022 2:12:05 PM: Configuration saved
+3/7/2022 2:12:08 PM: Configuration saved
+3/7/2022 2:12:08 PM: Configuration saved
+3/7/2022 2:12:15 PM: Starting acquisition (Brother)
+3/7/2022 2:12:15 PM: Setup device handling
+3/7/2022 2:12:15 PM: Setup device properties
+3/7/2022 2:12:15 PM: DEBUG: document handling 1
+3/7/2022 2:12:15 PM: DEBUG: feeder status 3
+3/7/2022 2:12:30 PM: DEBUG: document handling 1
+3/7/2022 2:12:30 PM: DEBUG: feeder status 3
+3/7/2022 2:12:30 PM: Paper feed empty
+3/7/2022 2:12:30 PM: Finished scanning 1 files
+3/7/2022 2:12:30 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:12:41 PM: Application closed
+
+3/7/2022 2:12:59 PM: Application started
+3/7/2022 2:13:00 PM: Configuration loaded
+3/7/2022 2:13:00 PM: Configuration saved
+3/7/2022 2:13:00 PM: Configuration saved
+3/7/2022 2:13:01 PM: Configuration saved
+3/7/2022 2:13:01 PM: Configuration saved
+3/7/2022 2:13:04 PM: Configuration saved
+3/7/2022 2:13:04 PM: Configuration saved
+3/7/2022 2:13:05 PM: Configuration saved
+3/7/2022 2:13:05 PM: Configuration saved
+3/7/2022 2:13:07 PM: Configuration saved
+3/7/2022 2:13:09 PM: Starting acquisition (Brother)
+3/7/2022 2:13:09 PM: Setup device handling
+3/7/2022 2:13:09 PM: Setup device properties
+3/7/2022 2:13:09 PM: DEBUG: document handling 2
+
+3/7/2022 2:13:13 PM: Application started
+3/7/2022 2:13:13 PM: Configuration loaded
+3/7/2022 2:13:13 PM: Configuration saved
+3/7/2022 2:13:15 PM: Configuration saved
+3/7/2022 2:13:20 PM: Starting acquisition (Brother)
+3/7/2022 2:13:20 PM: Setup device handling
+3/7/2022 2:13:20 PM: Setup device properties
+3/7/2022 2:13:20 PM: DEBUG: document handling 2
+3/7/2022 2:13:20 PM: DEBUG: feeder status 3
+3/7/2022 2:13:35 PM: Finished scanning 1 files
+3/7/2022 2:13:36 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:14:11 PM: Application started
+3/7/2022 2:14:11 PM: Configuration loaded
+3/7/2022 2:14:11 PM: Configuration saved
+3/7/2022 2:14:12 PM: Configuration saved
+3/7/2022 2:14:22 PM: Configuration saved
+3/7/2022 2:14:23 PM: Configuration saved
+3/7/2022 2:14:25 PM: Starting acquisition (Brother)
+3/7/2022 2:14:25 PM: Setup device handling
+3/7/2022 2:14:25 PM: Setup device properties
+3/7/2022 2:14:25 PM: DEBUG: document handling 2
+3/7/2022 2:14:25 PM: DEBUG: feeder status 3
+3/7/2022 2:14:40 PM: Finished scanning 1 files
+3/7/2022 2:14:40 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:14:54 PM: Configuration saved
+3/7/2022 2:14:55 PM: Starting acquisition (Brother)
+3/7/2022 2:14:55 PM: Setup device handling
+3/7/2022 2:14:55 PM: Setup device properties
+3/7/2022 2:14:56 PM: DEBUG: document handling 1
+3/7/2022 2:14:56 PM: DEBUG: feeder status 3
+3/7/2022 2:15:11 PM: DEBUG: document handling 1
+3/7/2022 2:15:11 PM: DEBUG: feeder status 3
+3/7/2022 2:15:11 PM: Paper feed empty
+3/7/2022 2:15:11 PM: Finished scanning 1 files
+3/7/2022 2:15:11 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:15:13 PM: Configuration saved
+3/7/2022 2:15:14 PM: Configuration saved
+3/7/2022 2:15:16 PM: Configuration saved
+3/7/2022 2:15:33 PM: Configuration saved
+3/7/2022 2:15:36 PM: Configuration saved
+3/7/2022 2:15:38 PM: Configuration saved
+3/7/2022 2:15:39 PM: Configuration saved
+3/7/2022 2:15:47 PM: Starting acquisition (Brother)
+3/7/2022 2:15:47 PM: Setup device handling
+3/7/2022 2:15:47 PM: Setup device properties
+3/7/2022 2:15:47 PM: DEBUG: document handling 1
+3/7/2022 2:15:47 PM: DEBUG: feeder status 3
+3/7/2022 2:15:48 PM: Paper feed empty
+3/7/2022 2:15:48 PM: DEBUG: document handling 2
+3/7/2022 2:15:48 PM: DEBUG: feeder status 3
+3/7/2022 2:16:05 PM: Finished scanning 1 files
+3/7/2022 2:16:05 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:16:08 PM: Application closed
+
+3/7/2022 2:16:11 PM: Application started
+3/7/2022 2:16:11 PM: Configuration loaded
+3/7/2022 2:16:11 PM: Configuration saved
+3/7/2022 2:16:11 PM: Configuration saved
+3/7/2022 2:16:12 PM: Configuration saved
+3/7/2022 2:16:12 PM: Configuration saved
+3/7/2022 2:16:16 PM: Application closed
+
+3/7/2022 2:16:18 PM: Application started
+3/7/2022 2:16:18 PM: Configuration loaded
+3/7/2022 2:16:18 PM: Configuration saved
+3/7/2022 2:16:18 PM: Configuration saved
+3/7/2022 2:16:19 PM: Configuration saved
+3/7/2022 2:16:19 PM: Configuration saved
+3/7/2022 2:16:21 PM: Application closed
+
+3/7/2022 2:16:45 PM: Application started
+3/7/2022 2:16:45 PM: Configuration loaded
+3/7/2022 2:16:45 PM: Configuration saved
+3/7/2022 2:16:45 PM: Configuration saved
+3/7/2022 2:16:47 PM: Configuration saved
+3/7/2022 2:16:47 PM: Configuration saved
+3/7/2022 2:16:55 PM: Configuration saved
+3/7/2022 2:16:55 PM: Configuration saved
+3/7/2022 2:16:57 PM: Configuration saved
+3/7/2022 2:16:57 PM: Configuration saved
+3/7/2022 2:16:59 PM: Configuration saved
+3/7/2022 2:16:59 PM: Configuration saved
+3/7/2022 2:17:00 PM: Configuration saved
+3/7/2022 2:17:00 PM: Configuration saved
+3/7/2022 2:17:02 PM: Configuration saved
+3/7/2022 2:17:02 PM: Configuration saved
+3/7/2022 2:17:03 PM: Configuration saved
+3/7/2022 2:17:03 PM: Configuration saved
+3/7/2022 2:17:05 PM: Application closed
+
+3/7/2022 2:17:07 PM: Application started
+3/7/2022 2:17:07 PM: Configuration loaded
+3/7/2022 2:17:07 PM: Configuration saved
+3/7/2022 2:17:07 PM: Configuration saved
+3/7/2022 2:17:08 PM: Configuration saved
+3/7/2022 2:17:08 PM: Configuration saved
+3/7/2022 2:17:11 PM: Application closed
+
+3/7/2022 2:17:12 PM: Application started
+3/7/2022 2:17:12 PM: Configuration loaded
+3/7/2022 2:17:12 PM: Configuration saved
+3/7/2022 2:17:12 PM: Configuration saved
+3/7/2022 2:17:13 PM: Configuration saved
+3/7/2022 2:17:13 PM: Configuration saved
+3/7/2022 2:17:14 PM: Application closed
+
+3/7/2022 2:17:16 PM: Application started
+3/7/2022 2:17:16 PM: Configuration loaded
+3/7/2022 2:17:16 PM: Configuration saved
+3/7/2022 2:17:16 PM: Configuration saved
+3/7/2022 2:17:17 PM: Configuration saved
+3/7/2022 2:17:17 PM: Configuration saved
+3/7/2022 2:17:28 PM: Configuration saved
+3/7/2022 2:17:28 PM: Configuration saved
+3/7/2022 2:17:30 PM: Application closed
+
+3/7/2022 2:17:31 PM: Application started
+3/7/2022 2:17:31 PM: Configuration loaded
+3/7/2022 2:17:31 PM: Configuration saved
+3/7/2022 2:17:31 PM: Configuration saved
+3/7/2022 2:17:32 PM: Configuration saved
+3/7/2022 2:17:32 PM: Configuration saved
+3/7/2022 2:17:34 PM: Application closed
+
+3/7/2022 2:17:35 PM: Application started
+3/7/2022 2:17:35 PM: Configuration loaded
+3/7/2022 2:17:36 PM: Configuration saved
+3/7/2022 2:17:36 PM: Configuration saved
+3/7/2022 2:17:37 PM: Configuration saved
+3/7/2022 2:17:37 PM: Configuration saved
+3/7/2022 2:17:38 PM: Application closed
+
+3/7/2022 2:17:41 PM: Application started
+3/7/2022 2:17:41 PM: Configuration loaded
+3/7/2022 2:17:41 PM: Configuration saved
+3/7/2022 2:17:41 PM: Configuration saved
+3/7/2022 2:17:42 PM: Configuration saved
+3/7/2022 2:17:42 PM: Configuration saved
+3/7/2022 2:17:44 PM: Configuration saved
+3/7/2022 2:17:44 PM: Configuration saved
+3/7/2022 2:17:46 PM: Configuration saved
+3/7/2022 2:17:46 PM: Configuration saved
+3/7/2022 2:17:48 PM: Configuration saved
+3/7/2022 2:17:48 PM: Configuration saved
+3/7/2022 2:17:52 PM: Configuration saved
+3/7/2022 2:17:52 PM: Configuration saved
+3/7/2022 2:17:54 PM: Configuration saved
+3/7/2022 2:17:54 PM: Configuration saved
+3/7/2022 2:17:56 PM: Application closed
+
+3/7/2022 2:17:58 PM: Application started
+3/7/2022 2:17:58 PM: Configuration loaded
+3/7/2022 2:17:58 PM: Configuration saved
+3/7/2022 2:17:58 PM: Configuration saved
+3/7/2022 2:17:59 PM: Configuration saved
+3/7/2022 2:17:59 PM: Configuration saved
+3/7/2022 2:18:01 PM: Configuration saved
+3/7/2022 2:18:01 PM: Configuration saved
+
+3/7/2022 2:18:07 PM: Application started
+3/7/2022 2:18:07 PM: Configuration loaded
+3/7/2022 2:18:07 PM: Configuration saved
+3/7/2022 2:18:07 PM: Configuration saved
+3/7/2022 2:18:08 PM: Configuration saved
+3/7/2022 2:18:08 PM: Configuration saved
+3/7/2022 2:18:13 PM: Configuration saved
+3/7/2022 2:18:16 PM: Starting acquisition (Brother)
+3/7/2022 2:18:16 PM: Setup device handling
+3/7/2022 2:18:16 PM: Setup device properties
+3/7/2022 2:18:16 PM: DEBUG: document handling 1
+3/7/2022 2:18:16 PM: DEBUG: feeder status 3
+3/7/2022 2:18:31 PM: DEBUG: document handling 1
+3/7/2022 2:18:31 PM: DEBUG: feeder status 3
+3/7/2022 2:18:31 PM: Paper feed empty
+3/7/2022 2:18:31 PM: Finished scanning 1 files
+3/7/2022 2:18:31 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:18:40 PM: Application started
+3/7/2022 2:18:40 PM: Configuration loaded
+3/7/2022 2:18:40 PM: Configuration saved
+3/7/2022 2:18:41 PM: Configuration saved
+3/7/2022 2:18:59 PM: Application closed
+
+3/7/2022 2:19:38 PM: Application started
+3/7/2022 2:19:39 PM: Configuration loaded
+3/7/2022 2:19:39 PM: Configuration saved
+3/7/2022 2:19:42 PM: Configuration saved
+3/7/2022 2:19:54 PM: Configuration saved
+3/7/2022 2:20:00 PM: Configuration saved
+3/7/2022 2:20:06 PM: Starting acquisition (Brother)
+3/7/2022 2:20:06 PM: Setup device handling
+3/7/2022 2:20:06 PM: Setup device properties
+3/7/2022 2:20:06 PM: DEBUG: document handling 2
+3/7/2022 2:20:06 PM: DEBUG: feeder status 3
+3/7/2022 2:20:22 PM: Finished scanning 1 files
+3/7/2022 2:20:22 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:20:52 PM: Configuration saved
+3/7/2022 2:21:07 PM: Starting acquisition (Brother)
+3/7/2022 2:21:07 PM: Setup device handling
+3/7/2022 2:21:07 PM: Setup device properties
+3/7/2022 2:21:07 PM: DEBUG: document handling 1
+
+3/7/2022 2:21:19 PM: Application started
+3/7/2022 2:21:20 PM: Configuration loaded
+3/7/2022 2:21:20 PM: Configuration saved
+3/7/2022 2:21:20 PM: Configuration saved
+3/7/2022 2:21:21 PM: Configuration saved
+3/7/2022 2:21:21 PM: Configuration saved
+3/7/2022 2:21:25 PM: Starting acquisition (Brother)
+3/7/2022 2:21:25 PM: Setup device handling
+3/7/2022 2:21:25 PM: Setup device properties
+3/7/2022 2:21:25 PM: DEBUG: document handling 1
+3/7/2022 2:21:25 PM: DEBUG: feeder status 3
+3/7/2022 2:21:38 PM: DEBUG: document handling 1
+3/7/2022 2:21:38 PM: DEBUG: feeder status 3
+3/7/2022 2:21:47 PM: DEBUG: document handling 1
+3/7/2022 2:21:47 PM: DEBUG: feeder status 3
+3/7/2022 2:21:57 PM: DEBUG: document handling 1
+3/7/2022 2:21:57 PM: DEBUG: feeder status 3
+3/7/2022 2:21:57 PM: Paper feed empty
+3/7/2022 2:21:57 PM: Finished scanning 3 files
+3/7/2022 2:21:57 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:22:00 PM: Configuration saved
+3/7/2022 2:22:02 PM: Configuration saved
+3/7/2022 2:22:07 PM: Starting acquisition (Brother)
+3/7/2022 2:22:07 PM: Setup device handling
+3/7/2022 2:22:07 PM: Setup device properties
+3/7/2022 2:22:07 PM: DEBUG: document handling 2
+3/7/2022 2:22:07 PM: DEBUG: feeder status 3
+3/7/2022 2:22:22 PM: Finished scanning 1 files
+3/7/2022 2:22:22 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:22:53 PM: Configuration saved
+3/7/2022 2:22:55 PM: Configuration saved
+3/7/2022 2:23:03 PM: Configuration saved
+3/7/2022 2:23:07 PM: Configuration saved
+3/7/2022 2:23:09 PM: Configuration saved
+3/7/2022 2:23:12 PM: Starting acquisition (Brother)
+3/7/2022 2:23:12 PM: Setup device handling
+3/7/2022 2:23:12 PM: Setup device properties
+3/7/2022 2:23:12 PM: DEBUG: document handling 1
+3/7/2022 2:23:12 PM: DEBUG: feeder status 3
+3/7/2022 2:23:13 PM: Paper feed empty
+3/7/2022 2:23:13 PM: Finished scanning 0 files
+3/7/2022 2:23:20 PM: Configuration saved
+3/7/2022 2:23:24 PM: Configuration saved
+3/7/2022 2:23:27 PM: Configuration saved
+3/7/2022 2:23:41 PM: Starting acquisition (Brother)
+3/7/2022 2:23:41 PM: Setup device handling
+3/7/2022 2:23:41 PM: Setup device properties
+3/7/2022 2:23:41 PM: DEBUG: document handling 1
+3/7/2022 2:23:41 PM: DEBUG: feeder status 3
+3/7/2022 2:23:42 PM: Paper feed empty
+3/7/2022 2:23:42 PM: DEBUG: document handling 2
+3/7/2022 2:23:42 PM: DEBUG: feeder status 3
+3/7/2022 2:23:59 PM: Finished scanning 1 files
+3/7/2022 2:23:59 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+
+3/7/2022 2:29:35 PM: Application started
+3/7/2022 2:29:35 PM: Configuration loaded
+3/7/2022 2:29:35 PM: Configuration saved
+3/7/2022 2:29:35 PM: Configuration saved
+3/7/2022 2:29:37 PM: Configuration saved
+3/7/2022 2:29:37 PM: Configuration saved
+3/7/2022 2:30:07 PM: Connecting to device vid.0 pid.0
+3/7/2022 2:30:07 PM: [Error] Device Not Found.
+3/7/2022 2:30:22 PM: Connecting to device vid.0 pid.0
+3/7/2022 2:30:22 PM: [Error] Device Not Found.
+3/7/2022 2:30:27 PM: Connecting to device vid.0 pid.0
+3/7/2022 2:30:27 PM: [Error] Device Not Found.
+3/7/2022 2:30:48 PM: Starting acquisition (Brother)
+3/7/2022 2:30:48 PM: Setup device handling
+3/7/2022 2:30:48 PM: Setup device properties
+3/7/2022 2:30:48 PM: DEBUG: document handling 1
+3/7/2022 2:30:48 PM: DEBUG: feeder status 3
+3/7/2022 2:30:49 PM: Paper feed empty
+3/7/2022 2:30:49 PM: DEBUG: document handling 2
+3/7/2022 2:30:49 PM: DEBUG: feeder status 3
+3/7/2022 2:31:06 PM: Finished scanning 1 files
+3/7/2022 2:31:06 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:31:29 PM: Connecting to device vid.0 pid.0
+3/7/2022 2:31:29 PM: [Error] Device Not Found.
+
+3/7/2022 2:35:15 PM: Application started
+3/7/2022 2:35:15 PM: Configuration loaded
+3/7/2022 2:35:15 PM: Configuration saved
+3/7/2022 2:35:15 PM: Configuration saved
+3/7/2022 2:35:17 PM: Configuration saved
+3/7/2022 2:35:17 PM: Configuration saved
+3/7/2022 2:35:30 PM: Starting acquisition (Brother)
+3/7/2022 2:35:30 PM: Setup device handling
+3/7/2022 2:35:30 PM: Setup device properties
+3/7/2022 2:35:30 PM: DEBUG: document handling 1
+3/7/2022 2:35:30 PM: DEBUG: feeder status 3
+3/7/2022 2:35:31 PM: Paper feed empty
+3/7/2022 2:35:31 PM: DEBUG: document handling 2
+3/7/2022 2:35:31 PM: DEBUG: feeder status 3
+3/7/2022 2:35:48 PM: Finished scanning 1 files
+3/7/2022 2:35:48 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\New folder (7)
+3/7/2022 2:37:33 PM: Application closed
+
+3/8/2022 1:24:46 PM: Application started
+3/8/2022 1:24:46 PM: Configuration loaded
+3/8/2022 1:24:46 PM: Configuration saved
+3/8/2022 1:24:46 PM: Configuration saved
+3/8/2022 1:24:49 PM: Configuration saved
+3/8/2022 1:24:49 PM: Configuration saved
+3/8/2022 1:24:52 PM: Application closed
+
+3/8/2022 1:27:23 PM: Application started
+3/8/2022 1:27:23 PM: Configuration loaded
+3/8/2022 1:27:23 PM: Configuration saved
+3/8/2022 1:27:23 PM: Configuration saved
+3/8/2022 1:27:39 PM: Application closed
+
+3/8/2022 1:27:44 PM: Application started
+3/8/2022 1:27:44 PM: Configuration loaded
+3/8/2022 1:27:44 PM: Configuration saved
+3/8/2022 1:27:44 PM: Configuration saved
+3/8/2022 1:27:57 PM: Configuration saved
+3/8/2022 1:27:57 PM: Configuration saved
+3/8/2022 1:28:20 PM: Configuration saved
+3/8/2022 1:28:20 PM: Configuration saved
+3/8/2022 1:28:36 PM: Configuration saved
+3/8/2022 1:28:36 PM: Configuration saved
+3/8/2022 1:29:31 PM: [Error] Cannot access designated save path.
+3/8/2022 1:29:31 PM: [Error] Provided path is not writable
+3/8/2022 1:30:01 PM: [Error] Cannot access designated save path.
+3/8/2022 1:30:01 PM: [Error] Provided path is not writable
+
+3/8/2022 1:30:26 PM: Application started
+3/8/2022 1:30:26 PM: Configuration loaded
+3/8/2022 1:30:26 PM: Configuration saved
+3/8/2022 1:30:26 PM: Configuration saved
+3/8/2022 1:30:28 PM: Configuration saved
+3/8/2022 1:30:28 PM: Configuration saved
+3/8/2022 1:30:36 PM: [Error] Cannot access designated save path.
+3/8/2022 1:30:36 PM: [Error] Provided path is not writable
+
+3/8/2022 1:31:01 PM: Application started
+3/8/2022 1:31:01 PM: Configuration loaded
+3/8/2022 1:31:01 PM: Configuration saved
+3/8/2022 1:31:01 PM: Configuration saved
+3/8/2022 1:31:02 PM: Configuration saved
+3/8/2022 1:31:02 PM: Configuration saved
+3/8/2022 1:31:08 PM: Configuration saved
+3/8/2022 1:31:19 PM: [Error] Cannot access designated save path.
+3/8/2022 1:31:19 PM: [Error] Provided path is not writable
+
+3/8/2022 1:32:03 PM: Application started
+3/8/2022 1:32:03 PM: Configuration loaded
+3/8/2022 1:32:03 PM: Configuration saved
+3/8/2022 1:32:03 PM: Configuration saved
+3/8/2022 1:32:04 PM: Configuration saved
+3/8/2022 1:32:04 PM: Configuration saved
+3/8/2022 1:32:12 PM: [Error] Cannot access designated save path.
+3/8/2022 1:32:12 PM: [Error] Provided path is not writable
+
+3/8/2022 2:01:48 PM: Application started
+3/8/2022 2:01:49 PM: Configuration loaded
+3/8/2022 2:01:49 PM: Configuration saved
+3/8/2022 2:01:49 PM: Configuration saved
+3/8/2022 2:01:52 PM: Configuration saved
+3/8/2022 2:01:52 PM: Configuration saved
+3/8/2022 2:01:57 PM: [Error] Cannot access designated save path.
+3/8/2022 2:01:57 PM: [Error] Provided path is not writable
+
+3/8/2022 2:02:14 PM: Application started
+3/8/2022 2:02:15 PM: Configuration loaded
+3/8/2022 2:02:15 PM: Configuration saved
+3/8/2022 2:02:15 PM: Configuration saved
+3/8/2022 2:02:16 PM: Configuration saved
+3/8/2022 2:02:16 PM: Configuration saved
+3/8/2022 2:02:40 PM: Configuration saved
+3/8/2022 2:02:44 PM: Starting acquisition (Brother)
+3/8/2022 2:02:44 PM: Setup device handling
+3/8/2022 2:02:44 PM: Setup device properties
+3/8/2022 2:02:44 PM: DEBUG: document handling 1
+3/8/2022 2:02:44 PM: DEBUG: feeder status 3
+3/8/2022 2:02:45 PM: Paper feed empty
+3/8/2022 2:02:45 PM: DEBUG: document handling 2
+3/8/2022 2:02:45 PM: DEBUG: feeder status 3
+3/8/2022 2:03:02 PM: Finished scanning 1 files
+3/8/2022 2:03:02 PM: Images saved in C:\Users\mohab.MOHAMMED\Desktop\Scan\New folder
+
+3/19/2022 2:11:44 PM: Application started
+3/19/2022 2:11:44 PM: Configuration loaded
+3/19/2022 2:11:44 PM: Configuration saved
+3/19/2022 2:11:44 PM: Configuration saved
+3/19/2022 2:11:46 PM: Configuration saved
+3/19/2022 2:11:46 PM: Configuration saved
+3/19/2022 2:11:50 PM: Connecting to device vid.0 pid.0
+3/19/2022 2:11:50 PM: [Error] Device Not Found.
+3/19/2022 2:11:52 PM: Connecting to device vid.0 pid.0
+3/19/2022 2:11:52 PM: [Error] Device Not Found.
+
+3/20/2022 9:41:58 AM: Application started
+3/20/2022 9:41:58 AM: Configuration loaded
+3/20/2022 9:41:58 AM: Configuration saved
+3/20/2022 9:41:58 AM: Configuration saved
+3/20/2022 9:41:59 AM: Configuration saved
+3/20/2022 9:41:59 AM: Configuration saved
+
+3/20/2022 9:43:12 AM: Application started
+3/20/2022 9:43:12 AM: Configuration loaded
+
+3/20/2022 9:43:39 AM: Application started
+3/20/2022 9:43:39 AM: Configuration loaded
+
+3/20/2022 9:44:55 AM: Application started
+3/20/2022 9:45:13 AM: Configuration loaded
+
+3/20/2022 9:46:51 AM: Application started
+3/20/2022 9:46:58 AM: Configuration loaded
+3/20/2022 9:46:59 AM: Configuration saved
+3/20/2022 9:46:59 AM: Configuration saved
+3/20/2022 9:47:05 AM: Configuration saved
+3/20/2022 9:47:05 AM: Configuration saved
+
+3/20/2022 9:49:09 AM: Application started
+3/20/2022 9:49:12 AM: Configuration loaded
+
+3/20/2022 9:49:23 AM: Application started
+3/20/2022 9:49:25 AM: Configuration loaded
+
+3/20/2022 9:49:57 AM: Application started
+3/20/2022 9:50:05 AM: Configuration loaded
+
+3/20/2022 9:50:12 AM: Application started
+3/20/2022 9:50:16 AM: Configuration loaded
+3/20/2022 9:50:17 AM: Configuration saved
+3/20/2022 9:50:17 AM: Configuration saved
+3/20/2022 9:50:19 AM: Application closed
+
+3/20/2022 9:50:47 AM: Application started
+3/20/2022 9:50:49 AM: Configuration loaded
+3/20/2022 9:50:52 AM: Configuration saved
+3/20/2022 9:50:52 AM: Configuration saved
+3/20/2022 9:50:55 AM: Application closed
+
+3/20/2022 9:51:06 AM: Application started
+3/20/2022 9:51:10 AM: Configuration loaded
+3/20/2022 9:51:12 AM: Configuration saved
+3/20/2022 9:51:12 AM: Configuration saved
+3/20/2022 9:51:14 AM: Application closed
+
+3/20/2022 9:55:50 AM: Application started
+3/20/2022 9:55:56 AM: Configuration loaded
+
+3/20/2022 9:56:04 AM: Application started
+3/20/2022 9:56:06 AM: Configuration loaded
+
+3/20/2022 9:56:14 AM: Application started
+
+3/20/2022 9:56:17 AM: Application started
+
+3/20/2022 9:56:28 AM: Application started
+
+3/20/2022 9:59:11 AM: Application started
+3/20/2022 9:59:17 AM: Configuration loaded
+3/20/2022 9:59:21 AM: Configuration saved
+3/20/2022 9:59:21 AM: Configuration saved
+3/20/2022 9:59:29 AM: Configuration saved
+3/20/2022 9:59:29 AM: Configuration saved
+
+3/20/2022 9:59:36 AM: Application started
+3/20/2022 9:59:38 AM: Configuration loaded
+3/20/2022 9:59:54 AM: Configuration saved
+3/20/2022 9:59:54 AM: Configuration saved
+3/20/2022 9:59:59 AM: Application closed
+
+3/20/2022 10:03:41 AM: Application started
+3/20/2022 10:03:43 AM: Configuration loaded
+3/20/2022 10:03:46 AM: Configuration saved
+3/20/2022 10:03:46 AM: Configuration saved
+3/20/2022 10:03:53 AM: Application closed
+
+3/20/2022 10:04:06 AM: Application started
+3/20/2022 10:04:08 AM: Configuration loaded
+3/20/2022 10:04:14 AM: Configuration saved
+3/20/2022 10:04:14 AM: Configuration saved
+3/20/2022 10:04:15 AM: Application closed
+
+3/20/2022 10:09:49 AM: Application started
+3/20/2022 10:09:50 AM: Configuration loaded
+3/20/2022 10:09:52 AM: Configuration saved
+3/20/2022 10:09:52 AM: Configuration saved
+3/20/2022 10:09:56 AM: Configuration saved
+3/20/2022 10:09:56 AM: Configuration saved
+
+3/20/2022 10:33:43 AM: Application started
+3/20/2022 10:33:45 AM: Configuration loaded
+3/20/2022 10:33:46 AM: Configuration saved
+3/20/2022 10:33:46 AM: Configuration saved
+3/20/2022 10:33:57 AM: Configuration saved
+3/20/2022 10:33:57 AM: Configuration saved
+
+3/20/2022 10:34:02 AM: Application started
+3/20/2022 10:34:04 AM: Configuration loaded
+3/20/2022 10:34:06 AM: Configuration saved
+3/20/2022 10:34:06 AM: Configuration saved
+3/20/2022 10:34:08 AM: Application closed
+
+3/20/2022 10:34:11 AM: Application started
+3/20/2022 10:34:12 AM: Configuration loaded
+3/20/2022 10:34:17 AM: Configuration saved
+3/20/2022 10:34:17 AM: Configuration saved
+3/20/2022 10:34:18 AM: Application closed
+
+3/20/2022 10:35:32 AM: Application started
+3/20/2022 10:35:33 AM: Configuration loaded
+
+3/20/2022 10:38:43 AM: Application started
+3/20/2022 10:38:45 AM: Configuration loaded
+3/20/2022 10:38:47 AM: Configuration saved
+3/20/2022 10:38:47 AM: Configuration saved
+3/20/2022 10:38:51 AM: Configuration saved
+3/20/2022 10:38:51 AM: Configuration saved
+
+3/20/2022 10:52:58 AM: Application started
+3/20/2022 10:53:05 AM: Configuration loaded
+3/20/2022 10:53:07 AM: Configuration saved
+3/20/2022 10:53:07 AM: Configuration saved
+3/20/2022 10:53:11 AM: Configuration saved
+3/20/2022 10:53:11 AM: Configuration saved
+3/20/2022 10:53:20 AM: [Error] Cannot access designated save path.
+3/20/2022 10:53:20 AM: [Error] Provided path is not writable
+3/20/2022 10:54:06 AM: [Error] Cannot access designated save path.
+3/20/2022 10:54:06 AM: [Error] Provided path is not writable
+3/20/2022 10:54:10 AM: [Error] Cannot access designated save path.
+3/20/2022 10:54:10 AM: [Error] Provided path is not writable
+3/20/2022 10:54:32 AM: [Error] Cannot access designated save path.
+3/20/2022 10:54:32 AM: [Error] Provided path is not writable
+
+3/20/2022 10:54:58 AM: Application started
+3/20/2022 10:55:00 AM: Configuration loaded
+3/20/2022 10:55:01 AM: Configuration saved
+3/20/2022 10:55:01 AM: Configuration saved
+3/20/2022 10:55:05 AM: Configuration saved
+3/20/2022 10:55:05 AM: Configuration saved
+3/20/2022 10:55:10 AM: Configuration saved
+3/20/2022 10:55:12 AM: [Error] Cannot access designated save path.
+3/20/2022 10:55:12 AM: [Error] Provided path is not writable
+
+4/2/2022 10:55:41 AM: Application started
+4/2/2022 10:55:49 AM: Configuration loaded
+4/2/2022 10:55:49 AM: Configuration saved
+4/2/2022 10:56:00 AM: Configuration saved
+
+4/2/2022 10:56:22 AM: Application started
+
+2022/10/08 11:20:33 AM: Application started
+2022/10/08 11:20:47 AM: Configuration loaded
+2022/10/08 11:20:47 AM: Configuration saved
+2022/10/08 11:20:49 AM: Configuration saved
